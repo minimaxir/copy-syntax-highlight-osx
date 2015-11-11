@@ -6,11 +6,11 @@ Copy Syntax Highlight for OS X is an OS X service which copies the selected text
 
 ## Usage
 
-The intended primary use case is to Paste the copied syntax highlighted-text into productivity applications such as Microsoft Word and Keynote, keeping the code highlighting intact. Such highlighting can then be used in documents for publication and presentations for more spark, so to speak.
+The intended primary use case is to Paste the copied syntax highlighted-text into productivity applications such as [Microsoft Word](https://products.office.com/en-us/word) and [Keynote](http://www.apple.com/mac/keynote/), keeping the code highlighting intact. Such highlighting can then be used in documents for publication and presentations for more spark, so to speak.
 
 ![](/img/hello-world.gif)
 
-To use the tool, install the the pygments Python package. Then [download the Service](https://github.com/minimaxir/copy-syntax-highlight-osx/blob/master/Copy%20Syntax%20Highlight.zip) from this repository and install. On any text in any application, select the text and context-click, and the "Copy Syntax Highlight" menu item will be available. A prompt will appear asking for the language to lex the syntax highlight.
+To use the tool, install the the [pygments](http://pygments.org) Python package. Then [download the Service](https://github.com/minimaxir/copy-syntax-highlight-osx/blob/master/Copy%20Syntax%20Highlight.zip) from this repository and install. On any text in any application, select the text and context-click, and the "Copy Syntax Highlight" menu item will be available. A prompt will appear asking for the language to lex the syntax highlight.
 
 ## To-do
 
