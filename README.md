@@ -12,7 +12,7 @@ The intended primary use case is to Paste the copied syntax highlighted-text int
 
 To use the tool, install the the [pygments](http://pygments.org) Python package. Then [download the Service](https://github.com/minimaxir/copy-syntax-highlight-osx/blob/master/Copy%20Syntax%20Highlight.zip) from this repository and install. On any text in any application, select the text and context-click, and the "Copy Syntax Highlight" menu item will be available. A prompt will appear asking for the language to lex the syntax highlight.
 
-A Dark theme is also available, intended for code text to be placed on dark backgrounds.
+A [Dark theme](https://github.com/minimaxir/copy-syntax-highlight-osx/blob/master/Copy%20Syntax%20Highlight%20Dark.zip) is also available, intended for highlighted code text placed on dark backgrounds.
 
 ![](/img/deep4me.png)
 
@@ -30,7 +30,7 @@ Max Woolf ([@minimaxir](http://minimaxir.com))
 
 Idea was inspired by comments on [this GitHub Gist](https://gist.github.com/jimbojsb/1630790), which linked to [this Stack Overflow](http://apple.stackexchange.com/questions/94222/how-to-get-automator-to-treat-text-as-rtf/94246#94246) answer which serves as the core function.
 
-Example GIF uses code sourced from [learnpython.org](http://www.learnpython.org/en/Hello,_World!). GIFs are rendered using the [Video to GIF OS X tool](https://github.com/minimaxir/video-to-gif-osx).
+Example GIF uses code sourced from [learnpython.org](http://www.learnpython.org/en/Hello,_World!). The GIFs in this README are rendered using the [Video to GIF OS X tool](https://github.com/minimaxir/video-to-gif-osx).
 
 ## License
 
